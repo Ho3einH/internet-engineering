@@ -65,3 +65,4 @@
 - انواع ارتباط دو طرفه (Simplex, Half duplex, Full duplex)
 - مدیریت ازدحام و تصادم در شبکه
 - اهمیت طراحی اصولی در کارایی شبکه
+<img width="1849" height="518" alt="image" src="https://github.com/user-attachments/assets/93895530-8c1c-414e-a6d3-ae2a0c759719" />
