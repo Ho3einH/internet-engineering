@@ -92,3 +92,4 @@
 ### عملیات دست‌تکانی در IEEE 802.11
 - ارسال RTS و دریافت CTS برای هماهنگی انتقال
 - جلوگیری از تصادم و اطلاع‌رسانی به ایستگاه‌های اطراف
+<img width="1851" height="685" alt="image" src="https://github.com/user-attachments/assets/113547de-4468-439b-bd68-cc3e9d4e5f32" />
